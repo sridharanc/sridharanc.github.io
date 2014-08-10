@@ -1,4 +1,4 @@
 Sridhar
 ------
 
-About me. Reach me [twitter](http://www.twitter.com/sridhar)
+Hi i am sridhar. living in Chennai,India. Reach me [twitter](http://www.twitter.com/sridhar)
