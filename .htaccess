@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+  RewriteCond %{HTTP_HOST} ^iamsridhar\.com$ [NC]
+  RewriteRule ^(.*)$ http://www.iamsridhar.com/$1 [R=301,L]
+
+  RewriteRule (.*)/index\.php$ $1/ [QSA]
+</IfModule>
