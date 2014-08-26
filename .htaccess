@@ -1,3 +1,0 @@
-RewriteEngine on
-rewritecond %{http_host} ^http://www.iamsridhar.com [nc]
-rewriterule ^(.*)$ http://iamsridhar.com/$1 [r=301,nc] 
